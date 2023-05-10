@@ -1,0 +1,7 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\bin\Debug\Exercicio_15.exe.config
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\bin\Debug\Exercicio_15.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\bin\Debug\Exercicio_15.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\obj\Debug\Exercicio_15.csprojAssemblyReference.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\obj\Debug\Exercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\obj\Debug\Exercicio_15.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_15\Exercicio_15\Exercicio_15\obj\Debug\Exercicio_15.pdb

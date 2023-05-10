@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{914E388A-2D9F-4451-9F63-1CABAD8B7349}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>frmSplash</RootNamespace>
+    <AssemblyName>frmSplash</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_169536646-stock-photo-red-wallpaper-texture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-restaurant-food-menu-background-image_190820.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-position-map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_169536646-stock-photo-red-wallpaper-texture1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_169536646-stock-photo-red-wallpaper-texture2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_1636485138850.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364851388501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_1636485475400 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_1636485576832.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_1636485734101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_1636485917761.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364859177611.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364857341011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364857341012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364857341013.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SGN_11_09_2021_16364857341014.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-graphics-restaurant-logo-restaurant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-graphics-restaurant-logo-restaurant.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Como-usar-delivery-logo-para-meu-restaurante-SAIPOS-Sistema-Para-restaurante-10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Como-usar-delivery-logo-para-meu-restaurante-SAIPOS-Sistema-Para-restaurante-101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Como-usar-delivery-logo-para-meu-restaurante-SAIPOS-Sistema-Para-restaurante-102.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logotipo-personalizada-restaurante-arte-digital-restaurante.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logotipo-personalizada-restaurante-logotipo-restaurante.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-restaurant-food-menu-background-image_1908201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-restaurant-food-menu-background-image_1908202.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-restaurant-food-menu-background-image_190820 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-639523652-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-639523652-170667a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-639523652-170667a2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logotipo-do-restaurante-retro_23-2148474404.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9975fac6938d6d19c33105e44655a3c8-design-de-logotipo-do-restaurante-cheff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9975fac6938d6d19c33105e44655a3c8-design-de-logotipo-do-restaurante-cheff1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02b2e53b67e063e59ee1c8235283aa28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Como-usar-delivery-logo-para-meu-restaurante-SAIPOS-Sistema-Para-restaurante-103.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ae9a889bdd2a489862b6314399c84b45.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

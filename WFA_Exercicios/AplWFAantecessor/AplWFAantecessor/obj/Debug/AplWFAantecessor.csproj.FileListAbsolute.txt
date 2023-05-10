@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\bin\Debug\AplWFAantecessor.exe.config
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\bin\Debug\AplWFAantecessor.exe
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\bin\Debug\AplWFAantecessor.pdb
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.Antecessor.resources
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.exe
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAantecessor\AplWFAantecessor\obj\Debug\AplWFAantecessor.pdb

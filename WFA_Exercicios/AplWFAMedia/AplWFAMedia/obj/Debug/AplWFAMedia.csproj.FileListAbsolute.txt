@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\bin\Debug\AplWFAMedia.exe.config
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\bin\Debug\AplWFAMedia.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\bin\Debug\AplWFAMedia.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.Form1.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMedia\AplWFAMedia\obj\Debug\AplWFAMedia.pdb

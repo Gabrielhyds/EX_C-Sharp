@@ -1,0 +1,6 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\bin\Debug\exercicio_09.exe.config
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\bin\Debug\exercicio_09.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\bin\Debug\exercicio_09.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\obj\Debug\exercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\obj\Debug\exercicio_09.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_09\exercicio_09\exercicio_09\obj\Debug\exercicio_09.pdb

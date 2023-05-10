@@ -1,0 +1,13 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.csprojAssemblyReference.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.AssemblyInfoInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.AssemblyInfo.cs
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.deps.json
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.runtimeconfig.json
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.runtimeconfig.dev.json
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.dll
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\bin\Debug\netcoreapp3.1\programa_02.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.dll
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_02\obj\Debug\netcoreapp3.1\programa_02.genruntimeconfig.cache

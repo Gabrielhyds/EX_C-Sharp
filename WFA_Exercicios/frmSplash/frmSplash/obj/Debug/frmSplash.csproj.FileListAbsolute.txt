@@ -1,0 +1,11 @@
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\bin\Debug\frmSplash.exe.config
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\bin\Debug\frmSplash.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\bin\Debug\frmSplash.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.Form1.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\frmSplash\frmSplash\obj\Debug\frmSplash.frmLogin.resources

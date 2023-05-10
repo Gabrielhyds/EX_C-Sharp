@@ -1,0 +1,7 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\bin\Debug\Exercicio_14.exe.config
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\bin\Debug\Exercicio_14.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\bin\Debug\Exercicio_14.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\obj\Debug\Exercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\obj\Debug\Exercicio_14.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\obj\Debug\Exercicio_14.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_14\Exercicio_14\Exercicio_14\obj\Debug\Exercicio_14.csprojAssemblyReference.cache

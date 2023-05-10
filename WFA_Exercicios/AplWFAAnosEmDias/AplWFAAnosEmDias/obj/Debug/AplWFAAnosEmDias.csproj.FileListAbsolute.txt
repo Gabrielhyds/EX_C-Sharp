@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\bin\Debug\AplWFAAnosEmDias.exe.config
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\bin\Debug\AplWFAAnosEmDias.exe
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\bin\Debug\AplWFAAnosEmDias.pdb
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.Form1.resources
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.exe
+C:\Users\EL PROGRAMADOR\source\repos\AplWFAAnosEmDias\AplWFAAnosEmDias\obj\Debug\AplWFAAnosEmDias.pdb

@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\bin\Debug\AplWFAAreaRetangulo.exe.config
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\bin\Debug\AplWFAAreaRetangulo.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\bin\Debug\AplWFAAreaRetangulo.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.Form1.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAAreaRetangulo\AplWFAAreaRetangulo\obj\Debug\AplWFAAreaRetangulo.pdb

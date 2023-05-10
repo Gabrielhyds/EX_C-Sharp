@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\bin\Debug\AplWFARevendedoraDeCarro.exe.config
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\bin\Debug\AplWFARevendedoraDeCarro.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\bin\Debug\AplWFARevendedoraDeCarro.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.Form1.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFARevendedoraDeCarro\AplWFARevendedoraDeCarro\obj\Debug\AplWFARevendedoraDeCarro.pdb

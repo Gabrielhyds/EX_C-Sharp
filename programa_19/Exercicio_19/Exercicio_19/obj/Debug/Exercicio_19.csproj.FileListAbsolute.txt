@@ -1,0 +1,7 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\obj\Debug\Exercicio_19.csprojAssemblyReference.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\obj\Debug\Exercicio_19.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\bin\Debug\Exercicio_19.exe.config
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\bin\Debug\Exercicio_19.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\bin\Debug\Exercicio_19.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\obj\Debug\Exercicio_19.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_19\Exercicio_19\Exercicio_19\obj\Debug\Exercicio_19.pdb

@@ -1,0 +1,10 @@
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\bin\Debug\AplWFAMaiorValor.exe.config
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\bin\Debug\AplWFAMaiorValor.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\bin\Debug\AplWFAMaiorValor.pdb
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.csproj.AssemblyReference.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.Form1.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.Properties.Resources.resources
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.csproj.GenerateResource.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.exe
+C:\Users\EL PROGRAMADOR\Documents\desenvolvimento_sistemas\MODULO_2\DS\WFA_Exercicios\AplWFAMaiorValor\AplWFAMaiorValor\obj\Debug\AplWFAMaiorValor.pdb

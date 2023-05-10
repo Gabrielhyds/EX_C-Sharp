@@ -1,0 +1,7 @@
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\bin\Debug\exercicio_08.exe.config
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\bin\Debug\exercicio_08.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\bin\Debug\exercicio_08.pdb
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\obj\Debug\exercicio_08.csprojAssemblyReference.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\obj\Debug\exercicio_08.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\obj\Debug\exercicio_08.exe
+C:\Users\HEY\Documents\desenvolvimento_sistemas\MODULO_2\DS\programa_08\exercicio_08\exercicio_08\obj\Debug\exercicio_08.pdb
